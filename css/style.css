@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#earthquakeContainer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 10px;
+}
